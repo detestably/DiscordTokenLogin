@@ -1,5 +1,5 @@
 # Script de Login no Discord via Token
-# Última Atualização: 12 de junho de 2024
+# Última Atualização: 04 de março de 2025
 
 Este script permite o login na versão web do Discord utilizando um token específico.
 
